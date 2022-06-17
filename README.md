@@ -1,7 +1,7 @@
 # calculator-8051-assembly
 A calculator using 8051 microprocessor, a numeric pad, a 2x16 LCD display and assembly code.
 
-In this project, we used Assembly language to implement a simple calculator using a numeric pad as input and a LCD display as output.
+In this project, it was used Assembly language to implement a simple calculator using a numeric pad as input and a LCD display as output.
 
 It was done using MCU 8051 IDE to write the code in Assembly and generate the hex file to put in Proteus schematic.
 
